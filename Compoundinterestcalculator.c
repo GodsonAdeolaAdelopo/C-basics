@@ -1,5 +1,7 @@
 #include <stdio.h>
 #include <math.h>
+//DAY 3: LEARNING C FOR EMBEDDED SYSTEMS ENGINEERING;
+
 
 int main() {
     // a =p * (pow((1+(r /n)),(n * t))) 

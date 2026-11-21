@@ -1,4 +1,6 @@
 #include <stdio.h>
+//DAY 8: LEARNING C FOR EMBEDDED SYSTEMS ENGINEERING;
+
 int main() {
     int num;
 

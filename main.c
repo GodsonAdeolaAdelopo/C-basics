@@ -13,6 +13,8 @@ int main() {
 
     return 0;
 } */
+ //DAY 1: LEARNING C FOR EMBEDDED SYSTEMS ENGINEERING;
+
 #include <stdio.h>
 #include <string.h>
 int main() {
